@@ -206,3 +206,12 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 MIT
+
+---
+
+## Support this project
+
+Free, and maintained on my own time. Sponsorship covers the market data and broker API access
+behind these tools, and keeps them working when brokers change their export formats.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-jefrnc-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/jefrnc)
